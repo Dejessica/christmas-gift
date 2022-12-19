@@ -1,0 +1,167 @@
+.im{
+    width: 200px;
+    border: 3px solid;
+    
+}
+.jess-sec{
+   background-color: black;
+   display: flex;
+   font-family: 'Christmas', sans-serif;
+                                                
+
+}
+.text{
+    text-align: center; 
+ color: aliceblue; 
+ margin-top: 5px;
+ margin-left: 5px;
+ font-size: larger; 
+ font-weight: bolder;  
+}
+.main{
+  text-align: center; 
+  background: #a2d2ff;
+  margin-top: 0px;
+  padding: 30px;
+ }
+.line{
+    display: flex;
+    text-align: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid palevioletred;
+    justify-content: space-evenly;
+    flex-direction: row;
+   }
+      .line1{
+        background-size: cover;
+        text-shadow: 5px;
+        font-weight: bolder;
+        color: white;
+        border: 5px solid palevioletred;
+        padding: 8px;
+        background-color: rgb(78, 3, 3);
+        }
+      .line2{
+        background-size: cover;
+        color:yellow;
+        text-shadow:  5px;
+        font-weight: bolder;
+        padding: 8px;
+      border: 5px solid palevioletred; 
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIq5Z6bqyic0Z-6_sUzPvphz2Psp_Jw3YHYg&usqp=CAU);
+                                                   
+      }
+      .line3{
+        color: aliceblue;
+        background-size: cover;
+        background-color: black;
+        text-shadow: 5px;
+        font-weight: bolder;
+        padding-top: 8px;
+        padding: 8px;
+        border: 5px solid palevioletred;
+         }
+.imag{
+    width: 150px;
+    border-radius: 100px;
+    border: 5px solid pink;
+}
+.x{
+    width: 300px;
+    border-radius: 5px;
+}
+.gift-section{
+    display: block;
+    width: 300px;
+    height: 400px;
+    margin: 0px auto;
+    border-radius: 4px;
+    border: 4px solid brown;
+    background-image: url("https://decoratorswarehouse.com/product_images/uploaded_images/christmas-gift-wrap.jpg"
+  );
+  background-size: cover;
+  margin-bottom: 50px;
+}
+.gift-section:hover{
+    background-image: url(https://media.giphy.com/media/sl6XlyTK6vFqHZKXeD/giphy.gif);
+ }
+ .a{
+    margin-top: 50px;
+    display: block;
+    width: 300px;
+    height: 400px;
+    margin: 0px auto;
+    border-radius: 4px;
+    border: 4px solid brown;
+    background-image:url("https://decoratorswarehouse.com/product_images/uploaded_images/christmas-gift-wrap.jpg"
+    );
+background-size: cover;
+color: brown;
+}
+.s{
+    color: blue;
+}
+.a:hover {
+    background-image: url(https://media.giphy.com/media/uEcdUYGbpHSs8/giphy.gif);
+      background-size: contain;
+ }
+.gift{
+  background-image:url("https://decoratorswarehouse.com/product_images/uploaded_images/christmas-gift-wrap.jpg"
+  );
+  height: 400px;
+ display: block;
+  width: 300px;
+  margin:  20px auto;
+  border: 4px solid brown;
+  border-radius: 4px;
+  background-size: cover;
+  color: brown;
+}
+.gift:hover{
+  background-image: url(https://media.giphy.com/media/M4a243K4mOZtoEufyC/giphy.gif);
+  background-size: contain ;
+
+}
+.p{
+  width: 300px;
+border: 3px solid rgb(10, 10, 10);
+flex-direction: row;
+display: flex;
+padding:4px auto;
+justify-content: space-evenly;
+border-radius: 4px;
+background-color: darkred;
+color: antiquewhite;
+text-shadow: 5px;
+text-shadow: 5 5px;
+}
+.p1{
+  width: 100px;
+  border-radius:  50px;
+padding: 6px;
+}
+.gift2{
+  background-image:url("https://decoratorswarehouse.com/product_images/uploaded_images/christmas-gift-wrap.jpg"
+  );
+  height: 400px;
+ display: block;
+  width: 300px;
+  margin:  20px auto;
+  border: 4px solid brown;
+  border-radius: 4px;
+  background-size: cover;
+  color: brown;
+}
+.gift2:hover{
+  background-image: url(https://media.giphy.com/media/5z7zEFGbnlBG50Qf1R/giphy.gif);
+   background-size:contain;
+}
+span{
+  color: palegreen;
+  font-style: italic;
+  text-shadow: 5px;
+
+}
+  
+  
